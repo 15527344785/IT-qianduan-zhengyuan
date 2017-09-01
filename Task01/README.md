@@ -3,7 +3,15 @@
 
 # 任务知识点
 
+padding内边距的使用
 
+margin外边距的使用
+
+圆角采用的是border-radius设置
+
+css盒模型的理解
+
+浮动 float：left
 
 
 
